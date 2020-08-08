@@ -8,7 +8,7 @@ I am a passionate developer and architect, always looking for improvement. I bel
 - I am web director at [Project Celeste](https://www.projectceleste.com) (fan project).
 - I contributed to [`google/periph`](https://github.com/google/periph), [`gotk3/gotk3`](https://github.com/gotk3/gotk3), [`bxcodec/faker`](https://github.com/bxcodec/faker), and more!
 - I am interested in innovation, art, philosophy, music and video games.
-- <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/png/fr.png" alt="French" title="French"> Native&nbsp;|&nbsp;<img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/png/uk.png" alt="English" title="English"> Fluent
+- <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/png/fr.png" alt="French" title="French"> Native&nbsp;|&nbsp;<img  align="center" src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/png/uk.png" alt="English" title="English"> Fluent
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/png/go.png" alt="Golang" title="Golang">
@@ -34,11 +34,11 @@ I am a passionate developer and architect, always looking for improvement. I bel
     <a href="https://www.linkedin.com/in/j%C3%A9r%C3%A9my-lambert-29130a159/"  style="display: inline-block;">
         <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/svg/linkedin.svg" alt="LinkedIn" title="LinkedIn">
     </a>
-    <a href="https://t.me/SystemGlitch">
-        <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/svg/telegram.svg" alt="Patreon" title="Telegram" style="display: inline-block;" width="35" height="35">
+    <a href="https://t.me/SystemGlitch" style="display: inline-block;">
+        <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/svg/telegram.svg" alt="Patreon" title="Telegram" width="35" height="35">
     </a>
     <a href="https://www.patreon.com/system_glitch">
-        <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/png/patreon.png" alt="Patreon" title="Patreon" style="display: inline-block; margin-left: 2.5px;">
+        <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/png/patreon.png" alt="Patreon" title="Patreon" style="margin-left: 2.5px;">
     </a>
 </div>
 
