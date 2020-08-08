@@ -8,7 +8,7 @@ I am a passionate developer and architect, always looking for improvement. I bel
 - I am web director at [Project Celeste](https://www.projectceleste.com) (fan project).
 - I contributed to [`google/periph`](https://github.com/google/periph), [`gotk3/gotk3`](https://github.com/gotk3/gotk3), [`bxcodec/faker`](https://github.com/bxcodec/faker), and more!
 - I am interested in innovation, art, philosophy, music and video games.
-- <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/png/fr.png" alt="French" title="French"> Native&nbsp;|&nbsp;<img  align="center" src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/png/uk.png" alt="English" title="English"> Fluent
+- <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/png/fr.png" alt="French" title="French"> Native&nbsp;|&nbsp;<img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/png/uk.png" alt="English" title="English"> Fluent
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/png/go.png" alt="Golang" title="Golang">
