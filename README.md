@@ -24,14 +24,17 @@ I also work as a web developer for the [Project Celeste](https://www.projectcele
 </div>
 
 <div align="center">
-    <a href="https://twitter.com/ImFlyingPancake" target="_blank">
+    <a href="https://twitter.com/ImFlyingPancake" style="display: inline-block;">
         <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/svg/twitter.svg" alt="Twitter" title="Twitter">
     </a>
-    <a href="https://www.linkedin.com/in/j%C3%A9r%C3%A9my-lambert-29130a159/"  target="_blank">
+    <a href="https://www.linkedin.com/in/j%C3%A9r%C3%A9my-lambert-29130a159/"  style="display: inline-block;">
         <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/svg/linkedin.svg" alt="LinkedIn" title="LinkedIn">
     </a>
-    <a href="https://www.patreon.com/system_glitch" target="_blank">
-        <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/png/patreon.png" alt="Patreon" title="Patreon">
+    <a href="https://t.me/SystemGlitch">
+        <img src="./assets/img/svg/telegram.svg" alt="Patreon" title="Telegram" style="display: inline-block;" width="35" height="35">
+    </a>
+    <a href="https://www.patreon.com/system_glitch">
+        <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/png/patreon.png" alt="Patreon" title="Patreon" style="display: inline-block; margin-left: 2.5px;">
     </a>
 </div>
 
