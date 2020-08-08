@@ -28,17 +28,17 @@ I am a passionate developer and architect, always looking for improvement. I bel
 </div>
 
 <div align="center">
-    <a href="https://twitter.com/ImFlyingPancake" style="display: inline-block;">
-        <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/svg/twitter.svg" alt="Twitter" title="Twitter">
+    <a href="https://twitter.com/ImFlyingPancake">
+        <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/svg/twitter.svg" alt="Twitter" title="Twitter" width="35" height="35">
     </a>
-    <a href="https://www.linkedin.com/in/j%C3%A9r%C3%A9my-lambert-29130a159/"  style="display: inline-block;">
-        <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/svg/linkedin.svg" alt="LinkedIn" title="LinkedIn">
+    <a href="https://www.linkedin.com/in/j%C3%A9r%C3%A9my-lambert-29130a159/">
+        <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/svg/linkedin.svg" alt="LinkedIn" title="LinkedIn" width="35" height="35">
     </a>
-    <a href="https://t.me/SystemGlitch" style="display: inline-block;">
+    <a href="https://t.me/SystemGlitch">
         <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/svg/telegram.svg" alt="Patreon" title="Telegram" width="35" height="35">
     </a>
     <a href="https://www.patreon.com/system_glitch">
-        <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/png/patreon.png" alt="Patreon" title="Patreon" style="margin-left: 2.5px;">
+        <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/svg/patreon.svg" alt="Patreon" title="Patreon" width="35" height="35">
     </a>
 </div>
 
