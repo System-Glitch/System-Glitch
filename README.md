@@ -2,10 +2,13 @@
     <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/png/header.png" alt="SystemGlitch" width="100%"/>
 </div>
 
-I am a passionate developer and architect, always looking for improvement. I believe open-source software is a fantastic way of benefiting from the skills and experience of each individual in order to produce better, faster and stronger code.
+I am a passionate developer and architect, always looking for improvement. I believe open-source software is a fantastic way of benefiting from the skills and experience of each individual in order to produce better, faster and stronger code. Everything must be documented, tested and linted!
 
 - I am working on the Golang web framework [🍐Goyave](https://github.com/System-Glitch/goyave).
 - I am web director at [Project Celeste](https://www.projectceleste.com) (fan project).
+- I contributed to [`google/periph`](https://github.com/google/periph), [`gotk3/gotk3`](https://github.com/gotk3/gotk3), [`bxcodec/faker`](https://github.com/bxcodec/faker), and more!
+- I am interested in innovation, art, philosophy, music and video games.
+- Native 🇫🇷 french speaker, fluent 🇬🇧 english speaker.
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/png/go.png" alt="Golang" title="Golang">
