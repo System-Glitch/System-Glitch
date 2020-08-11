@@ -23,7 +23,7 @@ I am a passionate developer and architect, always looking for improvement. I bel
 
 <div align="center">
 
-[![System-Glitch's Github stats](https://github-readme-stats.vercel.app/api?username=System-Glitch&show_icons=true)](https://github.com/System-Glitch)
+[![System-Glitch's Github stats](https://github-readme-stats.vercel.app/api?username=System-Glitch&show_icons=true&count_private=true&include_all_commits=true&layout=compact)](https://github.com/System-Glitch)
 
 </div>
 
