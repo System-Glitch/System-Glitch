@@ -6,7 +6,7 @@ I am a passionate developer and architect, always looking for improvement. I bel
 
 - I am working on the Golang web framework [🍐Goyave](https://github.com/System-Glitch/goyave).
 - I am web director at [Project Celeste](https://www.projectceleste.com) (fan project).
-- I contributed to [`google/periph`](https://github.com/google/periph), [`gotk3/gotk3`](https://github.com/gotk3/gotk3), [`bxcodec/faker`](https://github.com/bxcodec/faker), and more!
+- I contributed to [`google/periph`](https://github.com/google/periph), [`gotk3/gotk3`](https://github.com/gotk3/gotk3), [`golangci/golangci-lint`](https://github.com/golangci/golangci-lint), and more!
 - I am interested in innovation, art, philosophy, music and video games.
 - <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/png/fr.png" alt="French" title="French"> Native&nbsp;|&nbsp;<img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/png/uk.png" alt="English" title="English"> Fluent
 
