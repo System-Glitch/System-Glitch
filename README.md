@@ -35,7 +35,7 @@ I am a passionate developer and architect, always looking for improvement. I bel
         <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/svg/linkedin.svg" alt="LinkedIn" title="LinkedIn" width="35" height="35">
     </a>
     <a href="https://t.me/SystemGlitch">
-        <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/svg/telegram.svg" alt="Patreon" title="Telegram" width="35" height="35">
+        <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/svg/telegram.svg" alt="Telegram" title="Telegram" width="35" height="35">
     </a>
     <a href="https://www.patreon.com/system_glitch">
         <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/svg/patreon.svg" alt="Patreon" title="Patreon" width="35" height="35">
