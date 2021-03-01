@@ -17,6 +17,8 @@ I am a passionate developer and architect, always looking for improvement. I bel
     <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/png/vscode.png" alt="Visual Studio Code" title="Visual Studio Code">
 </div>
 
+<p></p>
+
 <div align="center">
     <a href="https://twitter.com/ImFlyingPancake">
         <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/svg/twitter.svg" alt="Twitter" title="Twitter" width="35" height="35">
