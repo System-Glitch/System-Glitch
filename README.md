@@ -4,7 +4,7 @@
 
 I am a passionate developer and architect, always looking for improvement. I believe open-source software is a fantastic way of benefiting from the skills and experience of each individual in order to produce better, faster and stronger code. Everything must be documented, tested and linted!
 
-- I am working on the Golang web framework [🍐Goyave](https://github.com/System-Glitch/goyave).
+- I am working on the Golang web framework [🍐Goyave](https://github.com/go-goyave/goyave).
 - I am web director at [Project Celeste](https://www.projectceleste.com) (fan project).
 - I contributed to [`google/periph`](https://github.com/google/periph), [`gotk3/gotk3`](https://github.com/gotk3/gotk3), [`golangci/golangci-lint`](https://github.com/golangci/golangci-lint), and more!
 - I am interested in innovation, art, philosophy, music and video games.
