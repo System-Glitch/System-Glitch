@@ -23,9 +23,11 @@ I am a passionate developer and architect, always looking for improvement. I bel
     <a href="https://twitter.com/ImFlyingPancake">
         <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/svg/twitter.svg" alt="Twitter" title="Twitter" width="35" height="35">
     </a>
+    <!--
     <a href="https://www.linkedin.com/in/j%C3%A9r%C3%A9my-lambert-29130a159/">
         <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/svg/linkedin.svg" alt="LinkedIn" title="LinkedIn" width="35" height="35">
     </a>
+    -->
     <a href="https://t.me/SystemGlitch">
         <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/svg/telegram.svg" alt="Telegram" title="Telegram" width="35" height="35">
     </a>
