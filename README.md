@@ -12,7 +12,7 @@ I am a passionate developer and architect, always looking for improvement. I bel
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/png/go.png" alt="Golang" title="Golang">
-    <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/png/js.png" alt="Javascript" title="Javascript">
+    <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/png/ts.png" alt="Typescript" title="Typescript">
     <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/png/vue.png" alt="Vue.js" title="Vue.js">
     <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/png/vscode.png" alt="Visual Studio Code" title="Visual Studio Code">
 </div>
